@@ -1,6 +1,14 @@
 Population-weighted PM2.5 for countries
 ================
+Lina Ang
 2025-04-29
+
+- [About](#about)
+- [Data sources used](#data-sources-used)
+- [Variables](#variables)
+  - [Variables of interest](#variables-of-interest)
+- [Bangladesh](#bangladesh)
+- [Contact](#contact)
 
 ## About
 
@@ -51,9 +59,15 @@ names(BGD3)
 ## Bangladesh
 
 ``` r
-plot(BGD)  # Replace with actual plot code
+plot(BGD) 
 ```
 
-<img src="C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\README_files/figure-gfm/fig1-1.png" width="100%" />
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+<img src="C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\README_files/figure-gfm/fig_BGD-1.png" width="100%" />
+
+## Contact
+
+<div style="text-align: justify; line-height: 1.8">
+
+For more information, please email me at <ephanli@nus.edu.sg>.
+
+</div>
