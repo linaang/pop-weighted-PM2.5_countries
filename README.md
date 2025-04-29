@@ -62,75 +62,34 @@ Example using highest spatial resolution (name3) for Bangladesh.
     concentration levels for year XXXX
 
 ## Bangladesh
-
-<figure>
-<img
-src="README_figures/BGD.jpg"
-alt="2021 Population-weighted PM2.5 Bangladesh"  width="100%">
-</figure>
+![PM~2.5~ concentration levels for Bangladesh, 2021](README_figures/BGD.jpg)
 
 ## Brazil
-<figure>
-<img
-src="README_figures/BRA.jpg"
-alt="2021 Population-weighted PM2.5 Brazil"  width="100%">
-</figure>
+![PM~2.5~ concentration levels for Brazil, 2021](README_figures/BRA.jpg)
 
 ## China
-<figure>
-<img
-src="README_figures/CHN.jpg"
-alt="2021 Population-weighted PM2.5 China"  width="100%">
-</figure>
+![PM~2.5~ concentration levels for China, 2021](README_figures/CHN.jpg)
 
 ## India
-<figure>
-<img
-src="README_figures/IDN.jpg"
-alt="2021 Population-weighted PM2.5 India"  width="100%">
-</figure>
+![PM~2.5~ concentration levels for India, 2021](README_figures/IND.jpg)
 
 ## Indonesia
-<figure>
-<img
-src="README_figures/IND.jpg"
-alt="2021 Population-weighted PM2.5 Indonesia"  width="100%">
-</figure>
+![PM~2.5~ concentration levels for Indonesia, 2021](README_figures/IDN.jpg)
 
 ## Mexico
-<figure>
-<img
-src="README_figures/MEX.jpg"
-alt="2021 Population-weighted PM2.5 Mexico" width="100%">
-</figure>
+![PM~2.5~ concentration levels for Mexico, 2021](README_figures/MEX.jpg)
 
 ## Nigeria
-<figure>
-<img
-src="README_figures/NGA.jpg"
-alt="2021 Population-weighted PM2.5 Nigeria"  width="100%">
-</figure>
+![PM~2.5~ concentration levels for Nigeria, 2021](README_figures/NGA.jpg)
 
 ## Pakistan
-<figure>
-<img
-src="README_figures/PAK.jpg"
-alt="2021 Population-weighted PM2.5 Pakistan"  width="100%">
-</figure>
+![PM~2.5~ concentration levels for Pakistan, 2021](README_figures/PAK.jpg)
 
 ## Russia
-<figure>
-<img
-src="README_figures/RUS.jpg"
-alt="2021 Population-weighted PM2.5 Russia"  width="100%">
-</figure>
+![PM~2.5~ concentration levels for Russia, 2021](README_figures/RUS.jpg)
 
 ## United States
-<figure>
-<img
-src="README_figures/USA.jpg"
-alt="2021 Population-weighted PM2.5 United States"  width="100%">
-</figure>
+![PM~2.5~ concentration levels for United States, 2021](README_figures/USA.jpg)
 
 ## Contact
 
