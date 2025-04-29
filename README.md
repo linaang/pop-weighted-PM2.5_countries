@@ -54,36 +54,9 @@ Example using highest spatial resolution (name3) for Bangladesh.
 
 ## Bangladesh
 
-    ## Reading layer `v5_BGD_name3' from data source 
-    ##   `C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\Bangladesh\v5_BGD_name3.shp' 
-    ##   using driver `ESRI Shapefile'
-    ## Simple feature collection with 545 features and 25 fields
-    ## Geometry type: MULTIPOLYGON
-    ## Dimension:     XY
-    ## Bounding box:  xmin: 88.01057 ymin: 20.74111 xmax: 92.67366 ymax: 26.63407
-    ## Geodetic CRS:  WGS 84
-
-    ## Reading layer `v5_BGD_name2' from data source 
-    ##   `C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\Bangladesh\v5_BGD_name2.shp' 
-    ##   using driver `ESRI Shapefile'
-    ## Simple feature collection with 64 features and 22 fields
-    ## Geometry type: MULTIPOLYGON
-    ## Dimension:     XY
-    ## Bounding box:  xmin: 88.01057 ymin: 20.74111 xmax: 92.67366 ymax: 26.63407
-    ## Geodetic CRS:  WGS 84
-
-    ## Reading layer `v5_BGD_name1' from data source 
-    ##   `C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\Bangladesh\v5_BGD_name1.shp' 
-    ##   using driver `ESRI Shapefile'
-    ## Simple feature collection with 8 features and 20 fields
-    ## Geometry type: MULTIPOLYGON
-    ## Dimension:     XY
-    ## Bounding box:  xmin: 88.01057 ymin: 20.74111 xmax: 92.67366 ymax: 26.63407
-    ## Geodetic CRS:  WGS 84
-
 <div class="figure" style="text-align: center">
 
-<img src="C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\README_files/figure-gfm/BGD-1.png" alt="2021 Population-weighted PM2.5_Bangladesh" width="100%" />
+<img src="C:/Users/banan/NUS Dropbox/Li Na Ang/Li Na Ang’s files/Home/Github/pop-weighted-PM2.5_countries/README_figures/BGD_fig-1.png" alt="2021 Population-weighted PM2.5_Bangladesh" width="100%" />
 <p class="caption">
 2021 Population-weighted PM2.5_Bangladesh
 </p>
