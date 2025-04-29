@@ -1,4 +1,4 @@
-population-weighted PM2.5 for countries
+Population-weighted PM2.5 for countries
 ================
 2025-04-29
 
@@ -76,7 +76,7 @@ weighted average PM<sub>2.5</sub> concentration levels for year XXXX
     ## Bounding box:  xmin: 88.01057 ymin: 20.74111 xmax: 92.67366 ymax: 26.63407
     ## Geodetic CRS:  WGS 84
 
-<img src="C:\Users\banan\NUSDRO~1\LINAAN~1\LINAAN~1\Home\Github\POP-WE~1.5_C\README~1/figure-gfm/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
+<img src="C:\Users\banan\NUSDRO~1\LINAAN~1\LINAAN~1\Home\Github\POP-WE~1.5_C\README~1/figure-gfm/unnamed-chunk-3-1.png" style="display: block; margin: auto;" />
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
