@@ -38,10 +38,6 @@ years 2019 to 2021.
 
 Example using highest spatial resolution (name3) for Bangladesh.
 
-``` r
-names(BGD3)
-```
-
     ##  [1] "GID_3"     "GID_0"     "COUNTRY"   "GID_1"     "NAME_1"    "NL_NAME_1" "GID_2"     "NAME_2"    "NL_NAME_2"
     ## [10] "NAME_3"    "VARNAME_3" "NL_NAME_3" "TYPE_3"    "ENGTYPE_3" "CC_3"      "HASC_3"    "PM25_2019" "pop_2019" 
     ## [19] "pwpm_2019" "PM25_2020" "pop_2020"  "pwpm_2020" "PM25_2021" "pop_2021"  "pwpm_2021" "geometry"
@@ -57,9 +53,6 @@ names(BGD3)
     concentration levels for year XXXX
 
 ## Bangladesh
-
-    ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-    ##   45.84   68.64   76.27   76.40   87.00   98.30
 
     ## Reading layer `v5_BGD_name3' from data source 
     ##   `C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\Bangladesh\v5_BGD_name3.shp' 
