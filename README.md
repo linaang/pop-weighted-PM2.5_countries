@@ -54,14 +54,13 @@ Example using highest spatial resolution (name3) for Bangladesh.
 
 ## Bangladesh
 
-<div class="figure" style="text-align: center">
-
-<img src="C:/Users/banan/NUS Dropbox/Li Na Ang/Li Na Ang’s files/Home/Github/pop-weighted-PM2.5_countries/README_figures/BGD_fig-1.png" alt="2021 Population-weighted PM2.5_Bangladesh" width="100%" />
-<p class="caption">
-2021 Population-weighted PM2.5_Bangladesh
-</p>
-
-</div>
+<figure>
+<img
+src="C:/Users/banan/NUS%20Dropbox/Li%20Na%20Ang/Li%20Na%20Ang’s%20files/Home/Github/pop-weighted-PM2.5_countries/README_figures/BGD.jpg"
+alt="2021 Population-weighted PM2.5 Bangladesh" />
+<figcaption aria-hidden="true">2021 Population-weighted PM2.5
+Bangladesh</figcaption>
+</figure>
 
 ## Contact
 
