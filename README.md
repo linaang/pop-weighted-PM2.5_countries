@@ -1,3 +1,7 @@
+population-weighted PM2.5 for countries
+================
+2025-04-29
+
 ## About
 
 This repository contains yearly-average population-weighted
@@ -26,27 +30,18 @@ years 2019 to 2021.
 
 Example using highest spatial resolution (name3) for Bangladesh.
 
-    BGD3 <- st_read("C:/Users/banan/NUS Dropbox/Li Na Ang/Li Na Ang’s files/Home/Github/pop-weighted-PM2.5_countries/Bangladesh/v5_BGD_name3.shp")
-
-    ## Reading layer `v5_BGD_name3' from data source 
-    ##   `C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\Bangladesh\v5_BGD_name3.shp' 
-    ##   using driver `ESRI Shapefile'
-    ## Simple feature collection with 545 features and 25 fields
-    ## Geometry type: MULTIPOLYGON
-    ## Dimension:     XY
-    ## Bounding box:  xmin: 88.01057 ymin: 20.74111 xmax: 92.67366 ymax: 26.63407
-    ## Geodetic CRS:  WGS 84
-
-    names(BGD3)
+``` r
+names(BGD3)
+```
 
     ##  [1] "GID_3"     "GID_0"     "COUNTRY"   "GID_1"     "NAME_1"    "NL_NAME_1" "GID_2"     "NAME_2"    "NL_NAME_2"
     ## [10] "NAME_3"    "VARNAME_3" "NL_NAME_3" "TYPE_3"    "ENGTYPE_3" "CC_3"      "HASC_3"    "PM25_2019" "pop_2019" 
     ## [19] "pwpm_2019" "PM25_2020" "pop_2020"  "pwpm_2020" "PM25_2021" "pop_2021"  "pwpm_2021" "geometry"
 
-Variables of interest - NAME\_X = name of administrative unit for the
-associated PM<sub>2.5</sub> concentration levels - PM25\_XXXX = raw
+Variables of interest - NAME_X = name of administrative unit for the
+associated PM<sub>2.5</sub> concentration levels - PM25_XXXX = raw
 annual average PM<sub>2.5</sub> concentration levels for year XXXX -
-pop\_XXXX = population density for year XXXX - pwpm\_XXXX = population
+pop_XXXX = population density for year XXXX - pwpm_XXXX = population
 weighted average PM<sub>2.5</sub> concentration levels for year XXXX
 
 ## Bangladesh
@@ -81,7 +76,7 @@ weighted average PM<sub>2.5</sub> concentration levels for year XXXX
     ## Bounding box:  xmin: 88.01057 ymin: 20.74111 xmax: 92.67366 ymax: 26.63407
     ## Geodetic CRS:  WGS 84
 
-<img src="C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\README_files/figure-markdown_strict/unnamed-chunk-90-1.png" style="display: block; margin: auto;" />
+<img src="C:\Users\banan\NUSDRO~1\LINAAN~1\LINAAN~1\Home\Github\POP-WE~1.5_C\README~1/figure-gfm/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
