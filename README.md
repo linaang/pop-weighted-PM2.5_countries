@@ -38,18 +38,22 @@ names(BGD3)
     ## [10] "NAME_3"    "VARNAME_3" "NL_NAME_3" "TYPE_3"    "ENGTYPE_3" "CC_3"      "HASC_3"    "PM25_2019" "pop_2019" 
     ## [19] "pwpm_2019" "PM25_2020" "pop_2020"  "pwpm_2020" "PM25_2021" "pop_2021"  "pwpm_2021" "geometry"
 
-Variables of interest 1. NAME_X = name of administrative unit for the
-associated PM<sub>2.5</sub> concentration levels 2. PM25_XXXX = raw
-annual average PM<sub>2.5</sub> concentration levels for year XXXX 3.
-pop_XXXX = population density for year XXXX 4. pwpm_XXXX = population
-weighted average PM<sub>2.5</sub> concentration levels for year XXXX
+### Variables of interest
+
+1.  **NAME_X** = name of administrative unit for the associated
+    PM<sub>2.5</sub> concentration levels
+2.  **PM25_XXXX** = raw annual average PM<sub>2.5</sub> concentration
+    levels for year XXXX
+3.  **pop_XXXX** = population density for year XXXX
+4.  **pwpm_XXXX** = population weighted average PM<sub>2.5</sub>
+    concentration levels for year XXXX
 
 ## Bangladesh
 
 ``` r
-BGD
+plot(BGD)  # Replace with actual plot code
 ```
 
-<img src="C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\README_files/figure-gfm/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
+<img src="C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\README_files/figure-gfm/fig1-1.png" width="100%" />
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
