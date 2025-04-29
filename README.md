@@ -8,6 +8,15 @@ Lina Ang
 - [Variables](#variables)
   - [Variables of interest](#variables-of-interest)
 - [Bangladesh](#bangladesh)
+- [Brazil](#brazil)
+- [China](#china)
+- [India](#india)
+- [Indonesia](#indonesia)
+- [Mexico](#mexico)
+- [Nigeria](#nigeria)
+- [Pakistan](#pakistan)
+- [Russia](#russia)
+- [United States](#united-states)
 - [Contact](#contact)
 
 ## About
@@ -58,8 +67,69 @@ Example using highest spatial resolution (name3) for Bangladesh.
 <img
 src="README_figures/BGD.jpg"
 alt="2021 Population-weighted PM2.5 Bangladesh" />
-<figcaption aria-hidden="true">2021 Population-weighted PM2.5
-Bangladesh</figcaption>
+</figure>
+
+## Brazil
+<figure>
+<img
+src="README_figures/BRA.jpg"
+alt="2021 Population-weighted PM2.5 Brazil" />
+</figure>
+
+## China
+<figure>
+<img
+src="README_figures/CHN.jpg"
+alt="2021 Population-weighted PM2.5 China" />
+</figure>
+
+## India
+<figure>
+<img
+src="README_figures/IDN.jpg"
+alt="2021 Population-weighted PM2.5 India" />
+</figure>
+
+## Indonesia
+<figure>
+<img
+src="README_figures/IND.jpg"
+alt="2021 Population-weighted PM2.5 Indonesia" />
+</figure>
+
+## Mexico
+<figure>
+<img
+src="README_figures/MEX.jpg"
+alt="2021 Population-weighted PM2.5 Mexico" />
+</figure>
+
+## Nigeria
+<figure>
+<img
+src="README_figures/NGA.jpg"
+alt="2021 Population-weighted PM2.5 Nigeria" />
+</figure>
+
+## Pakistan
+<figure>
+<img
+src="README_figures/PAKjpg"
+alt="2021 Population-weighted PM2.5 Pakistan" />
+</figure>
+
+## Russia
+<figure>
+<img
+src="README_figures/RUSjpg"
+alt="2021 Population-weighted PM2.5 Russia" />
+</figure>
+
+## United States
+<figure>
+<img
+src="README_figures/USAjpg"
+alt="2021 Population-weighted PM2.5 United States" />
 </figure>
 
 ## Contact
