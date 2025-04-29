@@ -38,45 +38,18 @@ names(BGD3)
     ## [10] "NAME_3"    "VARNAME_3" "NL_NAME_3" "TYPE_3"    "ENGTYPE_3" "CC_3"      "HASC_3"    "PM25_2019" "pop_2019" 
     ## [19] "pwpm_2019" "PM25_2020" "pop_2020"  "pwpm_2020" "PM25_2021" "pop_2021"  "pwpm_2021" "geometry"
 
-Variables of interest - NAME_X = name of administrative unit for the
-associated PM<sub>2.5</sub> concentration levels - PM25_XXXX = raw
-annual average PM<sub>2.5</sub> concentration levels for year XXXX -
-pop_XXXX = population density for year XXXX - pwpm_XXXX = population
+Variables of interest 1. NAME_X = name of administrative unit for the
+associated PM<sub>2.5</sub> concentration levels 2. PM25_XXXX = raw
+annual average PM<sub>2.5</sub> concentration levels for year XXXX 3.
+pop_XXXX = population density for year XXXX 4. pwpm_XXXX = population
 weighted average PM<sub>2.5</sub> concentration levels for year XXXX
 
 ## Bangladesh
 
-    ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-    ##   45.84   68.64   76.27   76.40   87.00   98.30
+``` r
+BGD
+```
 
-    ## Reading layer `v5_BGD_name3' from data source 
-    ##   `C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\Bangladesh\v5_BGD_name3.shp' 
-    ##   using driver `ESRI Shapefile'
-    ## Simple feature collection with 545 features and 25 fields
-    ## Geometry type: MULTIPOLYGON
-    ## Dimension:     XY
-    ## Bounding box:  xmin: 88.01057 ymin: 20.74111 xmax: 92.67366 ymax: 26.63407
-    ## Geodetic CRS:  WGS 84
-
-    ## Reading layer `v5_BGD_name2' from data source 
-    ##   `C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\Bangladesh\v5_BGD_name2.shp' 
-    ##   using driver `ESRI Shapefile'
-    ## Simple feature collection with 64 features and 22 fields
-    ## Geometry type: MULTIPOLYGON
-    ## Dimension:     XY
-    ## Bounding box:  xmin: 88.01057 ymin: 20.74111 xmax: 92.67366 ymax: 26.63407
-    ## Geodetic CRS:  WGS 84
-
-    ## Reading layer `v5_BGD_name1' from data source 
-    ##   `C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\Bangladesh\v5_BGD_name1.shp' 
-    ##   using driver `ESRI Shapefile'
-    ## Simple feature collection with 8 features and 20 fields
-    ## Geometry type: MULTIPOLYGON
-    ## Dimension:     XY
-    ## Bounding box:  xmin: 88.01057 ymin: 20.74111 xmax: 92.67366 ymax: 26.63407
-    ## Geodetic CRS:  WGS 84
-
-<img src="C:\Users\banan\NUSDRO~1\LINAAN~1\LINAAN~1\Home\Github\POP-WE~1.5_C\README~1/figure-gfm/unnamed-chunk-3-1.png" style="display: block; margin: auto;" />
-
+<img src="C:\Users\banan\NUS Dropbox\Li Na Ang\Li Na Ang’s files\Home\Github\pop-weighted-PM2.5_countries\README_files/figure-gfm/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
