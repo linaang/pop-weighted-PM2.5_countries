@@ -34,7 +34,7 @@ Indonesia, Mexico, Nigeria, Pakistan, Russia, and United States for the
 years 2019 to 2021.
 
 ## Publication(s)
-1. Lim N, Del Ponte A, <b><u>Ang L</b></u>, Seow WJ (2025). Global Populations Vulnerable to Air Pollution Know Less about Air Quality. <em>Environmental Science & Technology</em>.<a href="https://doi.org/10.1021/acs.est.5c07862" target="_blank">[DOI]</a> 
+1. Lim N, Del Ponte A, Ang L, Seow WJ (2025). Global Populations Vulnerable to Air Pollution Know Less about Air Quality. <em>Environmental Science & Technology</em>. <a href="https://doi.org/10.1021/acs.est.5c07862" target="_blank">[DOI]</a> 
 
 ## Data sources used
 
