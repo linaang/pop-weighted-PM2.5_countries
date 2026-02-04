@@ -4,7 +4,7 @@ Lina Ang
 2025-04-29
 
 - [About](#about)
-- [Publication(s)](#publication)
+- [Publications](#publications)
 - [Data sources used](#data-sources-used)
 - [Variables](#variables)
   - [Variables of interest](#variables-of-interest)
@@ -33,7 +33,7 @@ populous countries in the world: Bangladesh, Brazil, China, India,
 Indonesia, Mexico, Nigeria, Pakistan, Russia, and United States for the
 years 2019 to 2021.
 
-## Publication(s)
+## Publications
 1. Lim N, Del Ponte A, Ang L, Seow WJ (2025). Global Populations Vulnerable to Air Pollution Know Less about Air Quality. <em>Environmental Science & Technology</em>. <a href="https://doi.org/10.1021/acs.est.5c07862" target="_blank">[DOI]</a> 
 
 ## Data sources used
