@@ -95,6 +95,6 @@ Example using highest spatial resolution (name3) for Bangladesh.
 
 <div style="text-align: justify;">
 
-For more information, please email me at <ephanli@nus.edu.sg>.
+For more information, please email me at <bananaleaf1sg@gmail.com>.
 
 </div>
