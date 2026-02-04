@@ -4,7 +4,7 @@ Lina Ang
 2025-04-29
 
 - [About](#about)
-- [Publication(s)](#publication(s))
+- [Publication(s)](#publication)
 - [Data sources used](#data-sources-used)
 - [Variables](#variables)
   - [Variables of interest](#variables-of-interest)
